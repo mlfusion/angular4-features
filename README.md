@@ -1,5 +1,4 @@
 # Angular CRUD ops, Modals, Animations, Pagination, DateTimePicker, Directives and much more..
-[![Build status](https://ci.appveyor.com/api/projects/status/github/chsakell/angular2-features?branch=master&svg=true)](https://ci.appveyor.com/project/chsakell/angular2-features/branch/master)
 <br/>
 <a href="http://wp.me/p3mRWu-199" taget="_blank">Read blog post</a><br/>
 <ul>
@@ -69,5 +68,3 @@ If you think that any information you obtained here is worth of some money and a
 </tr>
 </tbody>
 </table>
-<h3>License</h3>
-Code released under the <a href="https://github.com/chsakell/angular2-features/blob/master/licence" target="_blank"> MIT license</a>.
